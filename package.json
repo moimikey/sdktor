@@ -44,7 +44,7 @@
     "mocha": "^2.3.3",
     "nock": "^5.2.1",
     "rimraf": "^2.5.0",
-    "semantic-release": "^4.3.5"
+    "semantic-release": "^17.2.3"
   },
   "repository": {
     "type": "git",
