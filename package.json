@@ -43,7 +43,7 @@
     "istanbul": "^0.3.22",
     "mocha": "^2.3.3",
     "nock": "^5.2.1",
-    "rimraf": "^2.5.0",
+    "rimraf": "^3.0.2",
     "semantic-release": "^4.3.5"
   },
   "repository": {
