@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.1.1",
-    "lodash": "^3.6.0",
+    "lodash": "^4.17.21",
     "superagent": "^1.1.0",
     "url-parse": "^1.4.7",
     "url-pattern": "^1.0.1"
